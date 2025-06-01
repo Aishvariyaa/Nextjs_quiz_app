@@ -1,4 +1,4 @@
-# Nodejs_Quiz_app
+# Nextjs_Quiz_app
 
 A basic quiz application built with Next.js and React.  
 This app presents multiple-choice questions, calculates your score, and displays the result in a clean and simple user interface.
